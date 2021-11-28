@@ -35,8 +35,8 @@ Execute the program
  </tr>
  <tr>
   <br></br>
-<th colspan="4">Name: </th> <!--Enter Your Name Here-->
-<th colspan="4">Reference Number: </th> <!--Enter Your Reference Number Here-->
+<th colspan="4">Name:Jeswanth.s </th> <!--Enter Your Name Here-->
+<th colspan="4">Reference Number:21001768 </th> <!--Enter Your Reference Number Here-->
          </tr>
          
          <tr>
@@ -171,7 +171,7 @@ Execute the program
 ```
 
 ## OUTPUT:
-![GitHub Logo](timetable.jpg)
+![GitHub Logo](timetable1.jpg)
 ## result:
 Timetable was created successfully.
 
